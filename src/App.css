@@ -1,0 +1,9 @@
+.body-background{
+  background-image: url("/public/librarylogo.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+.shade{
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 100vh;
+}
